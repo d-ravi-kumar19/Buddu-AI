@@ -1,5 +1,5 @@
 # Buddu AI
-
+## Progess: ![](https://geps.dev/progress/10)
 Welcome to Buddu AI – Your Intelligent Buddy! 🤖👋
 
 ## Overview
