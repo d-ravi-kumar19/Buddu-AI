@@ -30,4 +30,4 @@ To get started with Buddu AI, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/buddu-ai.git
+   git clone https://github.com/d-ravi-kumar19/Buddu-AI.git
